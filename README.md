@@ -53,7 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+### Employee table
+<img src="4.png" height=300 width=500>
 
+### Weather table
+<img src="5.png" height=300 width=500>
 
 
 ### PREPROCESSING
@@ -75,6 +79,11 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### Employee table
+<img src="6.png" height=300 width=500>
+
+### Weather table
+<img src="7.png" height=300 width=500>
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +100,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### Employee table
+<img src="8.png" height=300 width=500>
+
+### Weather table
+<img src="10.png" height=300 width=500>
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +121,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+### Employee table
+<img src="11.png" height=300 width=500>
+
+### Weather table
+<img src="12.png" height=300 width=500>
+
 ### RESULT: 
-  Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
